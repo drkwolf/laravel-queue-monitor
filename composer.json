@@ -2,7 +2,7 @@
     "name": "jkatzen/laravel-queue-monitor",
     "description": "Laravel queue monitoring tools",
     "require": {
-        "laravel/framework": "~5.0",
+        "laravel/framework": "~5.3",
         "predis/predis": "^1.1"
     },
     "license": "MIT",
@@ -14,7 +14,12 @@
         {
             "name": "Jacob Katzen",
             "email": "jacob@curology.com"
-        }
+        },
+        {
+            "name": "drkwolf",
+            "email": "drkwolf@gmail.com"
+        },
+
     ],
     "autoload": {
         "psr-4": {
